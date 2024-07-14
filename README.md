@@ -29,7 +29,7 @@
 
 ---
 
-## Something I Cooked... nah, I didn't cook anything yet.
+## Something I Cook... nah, I didn't cook anything yet.
 
 <div align="center">
 
