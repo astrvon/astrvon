@@ -25,7 +25,7 @@
 - Sakana Time Tracker: A website where you can manage your time while doing sigma and fanumtaxxing on Ohio, since skibidi toilet is already sus | [Visit Me Here](https://github.com/adhxabre/sakana-time-tracker)
 - Java Spring: Where you can be a Java Back-End Developer and say "I'm an elder 👴🏻" | [Visit Me Here](https://github.com/adhxabre/java-spring)
 - Go-Gin API: This Gin is undrinkable, perhaps. | [Visit Me Here](https://github.com/adhxabre/go-gin-api)
-- Aru Bot: A Discord Bot made on 3000 BC era (Never get an updates again 💀) | [Visit Me Here](https://github.com/adhxabre/aru-bot)
+- Aru Bot: A Discord Bot made on 3000 BC era (It never get an updates again 💀) | [Visit Me Here](https://github.com/adhxabre/aru-bot)
 
 ---
 
