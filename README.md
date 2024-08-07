@@ -1,6 +1,6 @@
 <div align="center">
 
-## WELCOME TO MY SIGMA 🗣️🗣️🗣️🗣️🗣️
+## WELCOME TO MY SKIBIDI TOILET 🗣️🗣️🗣️🗣️🗣️
 
 <img width="100%" src="asset/img.jpg" />
 
