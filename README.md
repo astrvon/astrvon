@@ -41,12 +41,12 @@
 
 ## Stats
 
-<div width="100%">
-<img src="https://github-readme-stats.vercel.app/api?username=astrvon&theme=onedark&show_icons=true&hide_border=false&count_private=true" alt="astrvon's Stats" width="50%">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=astrvon&theme=onedark&hide_border=false" alt="astrvon's Streak" width="50%">
-</div>
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=astrvon&theme=onedark&show_icons=true&hide_border=false&count_private=true" alt="astrvon's Stats" width="100%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=astrvon&theme=onedark&show_icons=true&hide_border=false&layout=compact" alt="astrvon's Top Languages" width="100%">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=astrvon&theme=onedark&hide_border=false" alt="astrvon's Streak" height="200">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=astrvon&theme=onedark&show_icons=true&hide_border=false&layout=compact" alt="astrvon's Top Languages" height="200">
+</div>
 
 ---
 
