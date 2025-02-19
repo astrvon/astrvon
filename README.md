@@ -52,4 +52,14 @@
 
 ---
 
+## Community
+
+Join my community here!
+
+<div align="center">
+
+[![Discord Banner](https://discordapp.com/api/guilds/1299317256064598047/widget.png?style=banner2)](https://discord.gg/NmqamSUPDn) [![Discord Banner](https://discordapp.com/api/guilds/946429912636608572/widget.png?style=banner2)](https://discord.gg/K3U4GXkeVP)
+
+</div>
+
 &copy; 2024 Abel Dustin Hyman S. All rights reserved.
