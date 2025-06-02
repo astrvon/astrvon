@@ -1,11 +1,10 @@
 ## What's poppin' y'all!
 
 - 💫 You can call me Astraea, Dustin, or Patchoulegs.
-- 🔎 I work at [**Bahana TCW Investment Management**](https://link.bahanatcw.com/) as a _Software
-  Engineer_.
+- 🔎 I'm **Open to work!**
 - 🪴 Doing both Front-End and Back-End is my thing, but I'm also into DevSecOps and Network Engineering!
 - 🕛 Most of my time ended up coding, designing, composing music, and gaming.
-- ⚡ Fact of the Day: **_"Dog knows how be grateful, better than human."_**
+- ⚡ Fact of the Day: **_"Not everything is run smoothly, you have to adapt or you'll be down for sure"_**
 
 ---
 
