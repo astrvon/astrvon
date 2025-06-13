@@ -1,10 +1,10 @@
 ## What's poppin' y'all!
 
 - 💫 You can call me Astraea, Dustin, or Patchoulegs.
-- 🔎 I'm **Open to work!**
+- 🔎 I'm a **Junior Full Stack Developer** at **PT. Quantum Pesona Dunia**
 - 🪴 Doing both Front-End and Back-End is my thing, but I'm also into DevSecOps and Network Engineering!
 - 🕛 Most of my time ended up coding, designing, composing music, and gaming.
-- ⚡ Fact of the Day: **_"Not everything is run smoothly, you have to adapt or you'll be down for sure"_**
+- ⚡ Fact of the Day: **_"Time is everything, but not everything is worth the time, so choose it wisely."_**
 
 ---
 
