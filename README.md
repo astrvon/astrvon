@@ -1,10 +1,10 @@
 ## What's poppin' y'all!
 
-- 💫 You can call me Astraea, Dustin, or Patchoulegs.
-- 🔎 I'm a **Junior Full Stack Developer** at **PT. Quantum Pesona Dunia**
+- 💫 You can call me Astraeus, Dustin, or Patchoulegs.
+- 🔎 I'm a **Junior Software Engineer** at **PT. Quantum Pesona Dunia**
 - 🪴 Doing both Front-End and Back-End is my thing, but I'm also into DevSecOps and Network Engineering!
-- 🕛 Most of my time ended up coding, designing, composing music, and gaming.
-- ⚡ Fact of the Day: **_"Time is everything, but not everything is worth the time, so choose it wisely."_**
+- 🕛 Most of my time ended up coding, designing, producing music, and gaming.
+- ⚡ Fact of the Day: **_"Iam moriturus sum, nunc morior—mihi fortunam optate."_**
 
 ---
 
@@ -19,15 +19,15 @@
 ![Static Badge](<https://img.shields.io/badge/SEA%20(Southeast%20Asia)-FA4454?style=flat-square&logo=valorant&logoColor=FA4454&labelColor=white>)
 <br/>
 [![Static Badge](https://img.shields.io/badge/%40astrvon-5865F2?style=flat-square&logo=discord&logoColor=white&labelColor=5865F2)](https://discord.com/users/281055644939714560)
-[![Static Badge](https://img.shields.io/badge/Click%20here!-25D366?style=flat-square&logo=whatsapp&logoColor=white&labelColor=25D366)](https://wa.me/628971406428)
-[![Static Badge](https://img.shields.io/badge/dusthxx-000000?style=flat-square&logo=steam&logoColor=white&labelColor=000000)](https://steamcommunity.com/id/dusthxx)
-[![Static Badge](https://img.shields.io/badge/phnksomnia-white?style=flat-square&logo=instagram&logoColor=E4405F&labelColor=white)](https://instagram.com/phnksomnia)
+[![Static Badge](https://img.shields.io/badge/Click%20here!-25D366?style=flat-square&logo=whatsapp&logoColor=white&labelColor=25D366)](https://wa.me/626281927665313)
+[![Static Badge](https://img.shields.io/badge/Ice%20Bear-000000?style=flat-square&logo=steam&logoColor=white&labelColor=000000)](https://steamcommunity.com/id/astrvon)
+[![Static Badge](https://img.shields.io/badge/phnksomnia.pem.crt-white?style=flat-square&logo=instagram&logoColor=E4405F&labelColor=white)](https://instagram.com/phnksomnia.pem.crt)
 
 [![Discord Presence](<https://lanyard.cnrad.dev/api/281055644939714560?showDisplayName=true&hideStatus=false&hideClan=false&theme=dark&idleMessage=Was%20AFK%20(Away%20From%20Kehidupan)>)](https://discord.com/users/281055644939714560)
 
 ## Stack I Use
 
-![img](https://skillicons.dev/icons?i=github,arch,kubernetes,docker,javascript,typescript,go,java,react,vite,next,express,spring,bootstrap,tailwindcss,postgres,mysql,vue,netlify,vercel&perline=10)
+![img](https://skillicons.dev/icons?i=github,gitlab,arch,docker,javascript,typescript,go,java,react,vite,next,nest,spring,bootstrap,tailwindcss,postgres,mysql,vue,netlify,vercel&perline=10)
 
 </div>
 
@@ -61,4 +61,4 @@ Join my community here!
 
 </div>
 
-&copy; 2024 Abel Dustin Hyman S. All rights reserved.
+&copy; 2026 Abel Dustin Hyman S. All rights reserved.
