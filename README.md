@@ -15,7 +15,7 @@
 `lists of my social media`
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCEl_-AQM2eBiOt6ZOYojsgg?style=flat-square&logo=youtube&logoColor=FF0000&label=As%2Braea&labelColor=white&color=FF0000)](https://youtube.com/@astrvon)
-![Static Badge](https://img.shields.io/badge/HerSkibidi-%237065-FA4454?style=flat-square&logo=riot-games&logoColor=FA4454&labelColor=white)
+![Static Badge](https://img.shields.io/badge/Her%20Ekko-%23lol-FA4454?style=flat-square&logo=riot-games&logoColor=FA4454&labelColor=white)
 ![Static Badge](<https://img.shields.io/badge/SEA%20(Southeast%20Asia)-FA4454?style=flat-square&logo=valorant&logoColor=FA4454&labelColor=white>)
 <br/>
 [![Static Badge](https://img.shields.io/badge/%40astrvon-5865F2?style=flat-square&logo=discord&logoColor=white&labelColor=5865F2)](https://discord.com/users/281055644939714560)
