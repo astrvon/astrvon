@@ -1,7 +1,7 @@
 ## What's poppin' y'all!
 
 - 💫 You can call me Astraeus, Dustin, or Patchoulegs.
-- 🔎 I'm a **Junior Software Engineer** at **PT. Quantum Pesona Dunia**
+- 🔎 I'm a **Junior Software Engineer** at **[REDACTED]**
 - 🪴 Doing both Front-End and Back-End is my thing, but I'm also into DevSecOps and Network Engineering!
 - 🕛 Most of my time ended up coding, designing, producing music, and gaming.
 - ⚡ Fact of the Day: **_"Iam moriturus sum, nunc morior—mihi fortunam optate."_**
