@@ -8,6 +8,7 @@ jobs:
   update-readme:
     name: Update README with metrics
     runs-on: ubuntu-latest
+    environment: WAKATIME PROFILE
     steps:
       - uses: anmol098/waka-readme-stats@master
         with:
@@ -15,7 +16,7 @@ jobs:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           SHOW_PROJECTS: "False"
           SHOW_OS: "True"
-          SHOW_LANGUAGES: "True"
+          SHOW_LANGUAGE: "True"
           SHOW_DAYS_OF_WEEK: "True"
           SHOW_COMMIT: "True"
           SHOW_TIMEZONE: "True"
