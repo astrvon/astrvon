@@ -38,94 +38,22 @@
   with waifus inside!
 - [Dive Project](https://dive-staging.patchoulegs.my.id/) | A Dive Project Web Page
 
-## Stats
+---
 
-<!--<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=astrvon&theme=onedark&show_icons=true&hide_border=false&count_private=true" alt="astrvon's Stats" width="75%">
+## Keyboard I Use
+- PressPlay Apollo61 Lite
+  Switch: Leobog Nimbus + Keygeek Y2 (for spacebar)
+  Keycaps: Fantech Maxfit61 Black Stock Keycaps
+  Artisan: Lobo Kokushibo
+- Weikav Lucky65 v2
+  Switch: Keygeek Blue Cheese V2
+  Keycaps: Off-brand Honey Bee XDA Profile
+  Artisan: 3x Solo Leveling Artisan + Lobo Chiikawa & Marcille
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=astrvon&theme=onedark&hide_border=false" alt="astrvon's Streak" height="150">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=astrvon&theme=onedark&show_icons=true&hide_border=false&layout=compact" alt="astrvon's Top Languages" height="150">-->
-
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-12%20hrs%2012%20mins-blue?style=flat)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
-
-**🐱 My GitHub Data** 
-
-> 📦 ? Used in GitHub's Storage 
- > 
-> 🏆 305 Contributions in the Year 2026
- > 
-> 💼 Opted to Hire
- > 
-> 📜 21 Public Repositories 
- > 
-> 🔑 0 Private Repositories 
- > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                1 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
-🌆 Daytime                7 commits           █████████░░░░░░░░░░░░░░░░   35.00 % 
-🌃 Evening                2 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
-🌙 Night                  10 commits          ████████████░░░░░░░░░░░░░   50.00 % 
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   2 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
-Tuesday                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Wednesday                4 commits           █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
-Thursday                 11 commits          ██████████████░░░░░░░░░░░   55.00 % 
-Friday                   3 commits           ████░░░░░░░░░░░░░░░░░░░░░   15.00 % 
-Saturday                 0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Sunday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Jakarta
-
-💬 Programming Languages: 
-TypeScript               2 hrs 55 mins       ██████████████████████░░░   87.27 % 
-YAML                     24 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.21 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
-
-🔥 Editors: 
-Zed                      3 hrs 15 mins       ████████████████████████░   97.33 % 
-Unknown Editor           5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.67 % 
-
-💻 Operating System: 
-Linux                    3 hrs 20 mins       █████████████████████████   100.00 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-No AI Coding Activity Tracked This Week
-```
-
-**I Mostly Code in TypeScript** 
-
-```text
-TypeScript               3 repos             █████████████████████████   100.00 % 
-```
-
-
-
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/astrvon/astrvon/main/assets/bar_graph.png)
-
-
- Last Updated on 28/07/2026 01:48:34 UTC
-<!--END_SECTION:waka-->
-
-</div>
+## On Wishlist
+- Weikav Nut75
+- PressPlay Essentials60 HE
+- Weikav Record Alice V2
 
 ---
 
