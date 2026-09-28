@@ -42,12 +42,19 @@
 
 ## Keyboard I Use
 - PressPlay Apollo61 Lite
+
   Switch: Leobog Nimbus + Keygeek Y2 (for spacebar)
+
   Keycaps: Fantech Maxfit61 Black Stock Keycaps
+
   Artisan: Lobo Kokushibo
+  
 - Weikav Lucky65 v2
+
   Switch: Keygeek Blue Cheese V2
+
   Keycaps: Off-brand Honey Bee XDA Profile
+
   Artisan: 3x Solo Leveling Artisan + Lobo Chiikawa & Marcille
 
 ## On Wishlist
